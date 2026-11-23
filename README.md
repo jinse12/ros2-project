@@ -60,6 +60,10 @@ Arduino UNO Q는 Qualcomm QRB2210(4× Cortex-A53, Linux)과 STM32U585(Cortex-M33
 ## 4. 필요기술
 
 ### 하드웨어
+
+<img width="1440" height="1081" alt="KakaoTalk_20261123_154146515" src="https://github.com/user-attachments/assets/ff2c432b-0898-44ea-b2f7-7ad74712969a" />
+
+
 | 부품 | 역할 |
 |---|---|
 | Arduino UNO Q | 이중 프로세서 메인 보드 |
